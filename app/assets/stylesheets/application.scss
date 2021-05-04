@@ -15,3 +15,7 @@
  */
 
  @import "../node_modules/bootstrap/scss/bootstrap";
+
+ // CSS partials
+@import "components/index";
+@import "components/alert";
